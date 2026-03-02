@@ -73,7 +73,7 @@
 
         h2 {
             text-align: center;
-            color: var(--color-primary-dark); /* Consistent heading color */
+            color: var(--color-primary-dark); /*Consistent heading color */
             margin-bottom: 30px;
             font-weight: 600; /* Bolder font */
             font-size: 2rem;
