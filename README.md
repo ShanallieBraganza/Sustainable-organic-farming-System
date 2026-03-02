@@ -1,16 +1,16 @@
-🌱 Sustainable Organic Farming Database System
-📌 Project Overview
+**Sustainable Organic Farming Database System**
+
 The Sustainable Organic Farming Database System is a DBMS-based mini project designed to store and manage detailed information about farmers, farms, and crops. The system verifies whether crops meet predefined organic farming standards and automatically classifies produce as Organic or Inorganic.
 
 This project promotes transparency, sustainable farming practices, and structured agricultural data management.
 
-🎯 Objective
+**Objective**
 To centralize farmer and farm-related data.
 To validate farming practices against predefined organic standards.
 To automatically classify produce as organic or inorganic.
 To maintain a structured market database for transparency.
 
-🧩 Modules Description
+**Modules Description**
 1️⃣ Farmer Module
 Stores farmer information:
 Farmer ID
@@ -44,7 +44,7 @@ Classifies produce as Organic or Inorganic
 Stores farmer and crop details after validation
 Maintains categorized market records
 
-🗂 Database Schema
+**Database Schema**
 FARMER
 Field	Description
 FARMER_ID	Primary Key
@@ -87,25 +87,24 @@ CERTIFICATE	Verification Status
 FARMER_ID	Foreign Key
 CROP	Crop Name
 
-🛠️ Technologies Used
-💻 Frontend
+**Technologies Used**
+Frontend:
 HTML
 CSS
 JavaScript
 
-🗄️ Backend
+Backend:
 PHP
 
-🛢️ Database
+Database:
 MySQL
-
-⚙️ System Requirements
+**System Requirements**
 Web Browser (Chrome / Edge / Firefox)
 XAMPP / WAMP Server
 MySQL Database
 PHP Support
 
-🚀 Expected Outcome
+**Expected Outcome**
 Secure storage of farmer and farm data
 Automatic validation of organic conditions
 Classification of crops as organic or inorganic
